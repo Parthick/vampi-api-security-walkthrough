@@ -1,2 +1,21 @@
-# vampi-api-security-walkthrough
-Beginner-friendly VAmPI walkthroughs covering OWASP API Security Top 10 vulnerabilities, exploitation steps, PoCs, and remediation guidance using Burp Suite and Postman.
+
+# VAmPI — Beginner-Friendly API Security Walkthrough
+
+## Lab Setup
+- Kali Linux
+- Docker
+- VAmPI
+- Burp Suite
+
+## Tools Used
+- Burp Suite
+- Postman
+- JWT.io
+
+## Vulnerabilities Covered
+- BOLA
+- Broken Authentication
+- JWT Forgery
+
+## Disclaimer
+For educational purposes only.
